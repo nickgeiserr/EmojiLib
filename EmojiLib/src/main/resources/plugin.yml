@@ -1,0 +1,6 @@
+name: EmojiLib
+version: '${project.version}'
+main: me.xplore.emojilib.EmojiLib
+api-version: 1.19
+authors: [ Xplore ]
+description: Adds Easy Support for Adding Emojis to your server
