@@ -1,2 +1,2 @@
 # EmojiLib
-Paper Library for Adding Emoji Support
+not a Paper Library(yet) for Adding Emoji Support
