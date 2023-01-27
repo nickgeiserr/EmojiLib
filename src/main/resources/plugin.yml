@@ -1,0 +1,4 @@
+name: EmojiLibTesting
+version: '${project.version}'
+main: me.xplore.emojilibtesting.EmojiLibTesting
+api-version: 1.19
